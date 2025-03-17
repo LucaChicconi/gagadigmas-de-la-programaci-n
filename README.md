@@ -8,6 +8,8 @@ Acá va toda la falopa que se me ocurra o produzca durante la cursada de PLP 1C2
 
 Como dije bien en el .md del ejercicio 1, sos libre de inspirarte en mis soluciones pero te advierto que no necesariamente están bien como cualquier resuelto que encuentres por ahí excepto los de Honi esos sí están bien.
 
+Si te sirve lo que encontrás acá dejá una estrellita ;) 
+
 **VERIFICÁ QUE LO QUE ESTÉS HACIENDO TENGA SENTIDO**
 
 Página con funciones de *prelude*
