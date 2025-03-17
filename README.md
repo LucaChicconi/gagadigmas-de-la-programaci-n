@@ -2,7 +2,7 @@
 
 ![alt text](./assets/images.jpeg)
 
-**ESTE REPOSITORIO ES DE BOCA**
+**ESTE REPOSITORIO ES DE BOCA 0 DESCENSOS DESDE ABRIL DE 1905**
 
 Acá va toda la falopa que se me ocurra o produzca durante la cursada de PLP 1C2025. Con un poco de suerte apruebo la materia y queda algo presentable acá.
 
