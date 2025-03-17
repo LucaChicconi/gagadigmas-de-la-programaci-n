@@ -1,5 +1,6 @@
-# gagadigmas-de-la-programaci-n
+# Gagadigmas de la programación
 
+![alt text]([http://url/to/img.png](https://cdn.billowshop.com/35e88431-8673-d945-c84e-9197fc2e16bd/categorias/1920x500-BocaLeiva-67a4ad058f0cd-O.jpg))
 
 Acá va toda la falopa que se me ocurra o produzca durante la cursada de PLP 1C2025. Con un poco de suerte apruebo la materia y queda algo presentable acá.
 
