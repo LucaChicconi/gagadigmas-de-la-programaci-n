@@ -24,7 +24,7 @@ Update 20/3: La función aEntero es una función que puede hacer una cosa o la o
 <br> Acá entra en juego Either (tipo A) (tipo B):
 <br> por ejemplo Either Int Bool no es ni Int ni Bool. Es su propio tipo de dato. Como Gogeta, que no es ni 
 Goku ni Vegeta <br>
-<br> ![alt text](/gagadigmas-de-la-programaci-n/assets/Gogeta_serio_(Film_12).webp)
+<br> ![alt text](assets/Gogeta_serio_(Film_12).webp)
 <br>
 La función **técnica**, en éste ejemplo, necesita que le pasemos un Gogeta **y le digamos si la técnica es de Goku o Vegeta**.
 Por ejemplo **técnica (Goku Kamehameha)**
