@@ -24,13 +24,13 @@ Update 20/3: La función aEntero es una función que puede hacer una cosa o la o
 <br> Acá entra en juego Either (tipo A) (tipo B):
 <br> por ejemplo Either Int Bool no es ni Int ni Bool. Es su propio tipo de dato. Como Gogeta, que no es ni 
 Goku ni Vegeta <br>
-<br> ![alt text](assets/Gogeta_serio_(Film_12).webp)
+<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/d/dd/GogetaFusionRebornDVD.png/revision/latest?cb=20130814184842&path-prefix=pt-br)
 <br>
 La función **técnica**, en éste ejemplo, necesita que le pasemos un Gogeta **y le digamos si la técnica es de Goku o Vegeta**.
 Por ejemplo **técnica (Goku Kamehameha)**
-<br> ![alt text](/gagadigmas-de-la-programaci-n/assets/Kamehameha.webp)
+<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/5/5c/Kamehameha_C%C3%B3smico.png/revision/latest?cb=20200328175635&path-prefix=es)
 <br> O **técnica (Vegeta Big Bang)**
-<br> ![alt text](/gagadigmas-de-la-programaci-n/assets/BigBangAttack.png) <br>
+<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/0/0c/VegetaMajinWMATnv.png/revision/latest?cb=20201225173937) <br>
 #### No conseguí fotos de Gogeta haciendo un big bang attack pero es parte de su moveset https://dbmoves.fandom.com/wiki/List_of_Gogeta_Moves ####
 
 
