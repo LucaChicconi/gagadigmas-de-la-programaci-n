@@ -26,14 +26,21 @@ Update 20/3: La función aEntero es una función que puede hacer una cosa o la o
 Goku ni Vegeta <br>
 ### Ejemplo : Gogeta, sus técnicas y si son de Goku o Vegeta ###
 
-<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/d/dd/GogetaFusionRebornDVD.png/revision/latest?cb=20130814184842&path-prefix=pt-br)
+<br> ![alt text](https://i.gifer.com/origin/56/56c0a4ede15d98d5ddd6476b88a9ab78_w200.webp)
 <br>
 La función **técnica**, en éste ejemplo, necesita que le pasemos un Gogeta **y le digamos si la técnica es de Goku o Vegeta**.
 Por ejemplo **técnica (Goku Kamehameha)**
-<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/5/5c/Kamehameha_C%C3%B3smico.png/revision/latest?cb=20200328175635&path-prefix=es)
+<br> ![alt text](https://media1.tenor.com/m/hiXlfSMxgkUAAAAC/big-kamehameha-gogeta-blue.gif)
 <br> O **técnica (Vegeta Big Bang)**
-<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/0/0c/VegetaMajinWMATnv.png/revision/latest?cb=20201225173937) <br>
+<br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/0/0c/VegetaMajinWMATnv.png/revision/latest?cb=20201225173937) 
+<br>
 #### No conseguí fotos de Gogeta haciendo un big bang attack pero es parte de su moveset https://dbmoves.fandom.com/wiki/List_of_Gogeta_Moves ####
+
+<br> Un Big Bang Kamehame Ha se puede interpretar como invocar un Big Bang e inmediatamente después un Kamehameha
+<br> **técnica (Vegeta Big Bang)**
+<br> **técnica (Goku Kamehameha)**
+<br> 
+![alt text](https://i.pinimg.com/originals/42/f6/8f/42f68f1d6493a9ae60e076ef033a5059.gif)
 
 
 
