@@ -25,6 +25,7 @@ Update 20/3: La función aEntero es una función que puede hacer una cosa o la o
 <br> por ejemplo Either Int Bool no es ni Int ni Bool. Es su propio tipo de dato. Como Gogeta, que no es ni 
 Goku ni Vegeta <br>
 <br> ![alt text](https://static.wikia.nocookie.net/dragonball/images/d/dd/GogetaFusionRebornDVD.png/revision/latest?cb=20130814184842&path-prefix=pt-br)
+<h1>Ejemplo : Gogeta, sus técnicas y si son de Goku o Vegeta</h1>
 <br>
 La función **técnica**, en éste ejemplo, necesita que le pasemos un Gogeta **y le digamos si la técnica es de Goku o Vegeta**.
 Por ejemplo **técnica (Goku Kamehameha)**
